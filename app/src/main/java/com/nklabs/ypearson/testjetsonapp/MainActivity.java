@@ -10,6 +10,8 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
+    //public native String getMyData();
+
     private static final String TAG = "nklabs";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
